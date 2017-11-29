@@ -1,4 +1,4 @@
 # Slide @mostafa
 ---
 
-* [Machine Learning](daffodil-edu.github.io/ml)
+* [Machine Learning](https://daffodil-edu.github.io/ml)
